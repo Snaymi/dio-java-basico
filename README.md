@@ -2,4 +2,4 @@
 
 Repositório para armazenar todo código do curso de Java BÁSICO
 
-Alterando o conteúdo de um arquivo de forma local
+Alterando o conteúdo de um arquivo de forma local.
